@@ -4,6 +4,11 @@ interns:
   mentors:
   - Leslie Knope
   - Ron Swanson
+- name: Shria Shyam
+  email: shria.shyam@noaa.gov
+  mentors:
+  - Rahul Mahajan
+  - Shria Shyam
 employees:
 - name: Milton Waddams
   email: milton.waddams@noaa.gov
