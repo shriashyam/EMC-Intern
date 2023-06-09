@@ -10,10 +10,10 @@
 #SBATCH -t 05:00
 
 # path to your clone
-clone_dir=/work2/noaa/da/cmartin/interns/EMC-Intern-Tutorial
+clone_dir=EMC-Intern
 
 # path to your work dir
-work_dir=/work2/noaa/da/cmartin/interns/tutorial
+work_dir=EMC-Intern
 
 # load modules
 module load intel
